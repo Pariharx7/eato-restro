@@ -2,4 +2,5 @@
 
 ## Description
  A simple restaurant website building using HTML, CSS & JS
-## Live Preview
+## Implementation
+This website is mainly implemented using the webpack bundler.
