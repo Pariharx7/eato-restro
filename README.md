@@ -6,4 +6,4 @@
 This website is mainly implemented using the webpack bundler.
 
 ## Live Preview
- Live preview will be available soon.
+ Live preview of this repository will be available soon.
